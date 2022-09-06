@@ -19,7 +19,7 @@ I am a Freelance Mobile and Web Developer who is exploring Cloud :cloud: while f
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/scoder37)  <img src="https://img.shields.io/github/followers/scoder37?label=Followers" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/nadiadev7)  <img src="https://img.shields.io/github/followers/scoder37?label=Followers" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -51,9 +51,9 @@ I am a Freelance Mobile and Web Developer who is exploring Cloud :cloud: while f
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scoder37&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadev7&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/scoder37)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/nadiadev7)
 
 ---
 
